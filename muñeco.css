@@ -1,0 +1,60 @@
+.cartoon {
+    --skin: #d50000;
+    --skindark: #b00;
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 20vmin;
+    height: 70vmin;
+  }
+  
+  .cartoon::after {
+    width: 270%;
+    height: 0;
+    bottom: -1px;
+    left: -75%;
+    border-bottom: 1px solid var(--skindark);
+  }
+  
+  
+  .cartoon div {
+    position: absolute;
+  }
+  
+  .b {
+    border: 1vmin solid black;
+  }
+  
+  .r {
+    border-radius: 100%;
+  }
+.hb::before,
+.ha::after {
+  content: "";
+  display: block;
+  position: absolute;
+}
+  /*****/
+  html, body {
+    background: #f002;
+  }  
+  
+.foot {
+    width:35.5%;
+    height: 2%;
+    background: var(--skin);
+    border-radius: 50vmin 80% 30% 20%;
+    bottom: 0;
+    left: 1%;
+    clip-path: polygon(0% 0%, 20% 0%, 96% 70%, 100% 100%, 0% 100%);
+    transform: scale(1.2);
+  }
+  
+  .foot2 {
+    left: auto;
+    right: -12.80%;
+    clip-path: polygon(0% 0%, 20% 0%, 98% 60%, 100% 100%, 0% 100%);
+    transform: rotatey(180deg) scale(1.35);
+  }
+  
