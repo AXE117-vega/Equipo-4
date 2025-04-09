@@ -1,0 +1,115 @@
+<!-- wp:group {"align":"full","style":{"spacing":{"blockGap":"0","padding":{"top":"var:preset|spacing|70","right":"var:preset|spacing|50","bottom":"var:preset|spacing|70","left":"var:preset|spacing|50"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull" style="padding-top:var(--wp--preset--spacing--70);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--70);padding-left:var(--wp--preset--spacing--50)"><!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|50","left":"var:preset|spacing|50"}}}} -->
+<div class="wp-block-columns alignwide"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"}}},"backgroundColor":"background","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-background-background-color has-background" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":12396,"aspectRatio":"1","scale":"cover","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://dotcompatterns.files.wordpress.com/2023/09/pexels-monstera-production-6373852.jpg" alt="" class="wp-image-12396" style="aspect-ratio:1;object-fit:cover" /></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph {"align":"left","fontSize":"medium"} -->
+<p class="has-text-align-left has-medium-font-size">Impresión artística: división</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:jetpack/payment-buttons -->
+<div class="wp-block-jetpack-payment-buttons"><!-- wp:jetpack/recurring-payments {"url":"https://vibrant-itzelmarina2.wordpress.com/catalogo/?recurring_payments=undefined","uniqueId":"recurring-payments-undefined"} -->
+<div class="wp-block-jetpack-recurring-payments"><!-- wp:jetpack/button {"element":"a","uniqueId":"recurring-payments-undefined","passthroughAttributes":{"uniqueId":"uniqueId","url":"url"},"text":"$29 - Comprar ahora","url":"https://vibrant-itzelmarina2.wordpress.com/catalogo/?recurring_payments=undefined"} /--></div>
+<!-- /wp:jetpack/recurring-payments --></div>
+<!-- /wp:jetpack/payment-buttons --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"}}},"backgroundColor":"background","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-background-background-color has-background" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":12397,"aspectRatio":"1","scale":"cover","sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://dotcompatterns.files.wordpress.com/2023/09/pexels-monstera-production-6373853.jpg?w=640" alt="" class="wp-image-12397" style="aspect-ratio:1;object-fit:cover" /></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph {"align":"left","fontSize":"medium"} -->
+<p class="has-text-align-left has-medium-font-size">Impresión artística: simetría</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:jetpack/payment-buttons -->
+<div class="wp-block-jetpack-payment-buttons"><!-- wp:jetpack/recurring-payments {"url":"https://vibrant-itzelmarina2.wordpress.com/catalogo/?recurring_payments=undefined","uniqueId":"recurring-payments-undefined"} -->
+<div class="wp-block-jetpack-recurring-payments"><!-- wp:jetpack/button {"element":"a","uniqueId":"recurring-payments-undefined","passthroughAttributes":{"uniqueId":"uniqueId","url":"url"},"text":"$29 - Comprar ahora","url":"https://vibrant-itzelmarina2.wordpress.com/catalogo/?recurring_payments=undefined"} /--></div>
+<!-- /wp:jetpack/recurring-payments --></div>
+<!-- /wp:jetpack/payment-buttons --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"}}},"backgroundColor":"background","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-background-background-color has-background" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":12398,"aspectRatio":"1","scale":"cover","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://dotcompatterns.files.wordpress.com/2023/09/pexels-monstera-production-6373856.jpg" alt="" class="wp-image-12398" style="aspect-ratio:1;object-fit:cover" /></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph {"align":"left","fontSize":"medium"} -->
+<p class="has-text-align-left has-medium-font-size">Impresión artística: capas</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:jetpack/payment-buttons -->
+<div class="wp-block-jetpack-payment-buttons"><!-- wp:jetpack/recurring-payments {"url":"https://vibrant-itzelmarina2.wordpress.com/catalogo/?recurring_payments=undefined","uniqueId":"recurring-payments-undefined"} -->
+<div class="wp-block-jetpack-recurring-payments"><!-- wp:jetpack/button {"element":"a","uniqueId":"recurring-payments-undefined","passthroughAttributes":{"uniqueId":"uniqueId","url":"url"},"text":"$29 - Comprar ahora","url":"https://vibrant-itzelmarina2.wordpress.com/catalogo/?recurring_payments=undefined"} /--></div>
+<!-- /wp:jetpack/recurring-payments --></div>
+<!-- /wp:jetpack/payment-buttons --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"blockGap":"0","padding":{"top":"var:preset|spacing|70","right":"var:preset|spacing|50","bottom":"var:preset|spacing|70","left":"var:preset|spacing|50"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull" style="padding-top:var(--wp--preset--spacing--70);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--70);padding-left:var(--wp--preset--spacing--50)"><!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|50","left":"var:preset|spacing|50"}}}} -->
+<div class="wp-block-columns alignwide"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"}}},"backgroundColor":"background","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-background-background-color has-background" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":12396,"aspectRatio":"1","scale":"cover","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://dotcompatterns.files.wordpress.com/2023/09/pexels-monstera-production-6373852.jpg" alt="" class="wp-image-12396" style="aspect-ratio:1;object-fit:cover" /></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph {"align":"left","fontSize":"medium"} -->
+<p class="has-text-align-left has-medium-font-size">Impresión artística: división</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:jetpack/payment-buttons -->
+<div class="wp-block-jetpack-payment-buttons"><!-- wp:jetpack/recurring-payments {"url":"https://vibrant-itzelmarina2.wordpress.com/catalogo/?recurring_payments=undefined","uniqueId":"recurring-payments-undefined"} -->
+<div class="wp-block-jetpack-recurring-payments"><!-- wp:jetpack/button {"element":"a","uniqueId":"recurring-payments-undefined","passthroughAttributes":{"uniqueId":"uniqueId","url":"url"},"text":"$29 - Comprar ahora","url":"https://vibrant-itzelmarina2.wordpress.com/catalogo/?recurring_payments=undefined"} /--></div>
+<!-- /wp:jetpack/recurring-payments --></div>
+<!-- /wp:jetpack/payment-buttons --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"}}},"backgroundColor":"background","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-background-background-color has-background" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":12397,"aspectRatio":"1","scale":"cover","sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://dotcompatterns.files.wordpress.com/2023/09/pexels-monstera-production-6373853.jpg?w=640" alt="" class="wp-image-12397" style="aspect-ratio:1;object-fit:cover" /></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph {"align":"left","fontSize":"medium"} -->
+<p class="has-text-align-left has-medium-font-size">Impresión artística: simetría</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:jetpack/payment-buttons -->
+<div class="wp-block-jetpack-payment-buttons"><!-- wp:jetpack/recurring-payments {"url":"https://vibrant-itzelmarina2.wordpress.com/catalogo/?recurring_payments=undefined","uniqueId":"recurring-payments-undefined"} -->
+<div class="wp-block-jetpack-recurring-payments"><!-- wp:jetpack/button {"element":"a","uniqueId":"recurring-payments-undefined","passthroughAttributes":{"uniqueId":"uniqueId","url":"url"},"text":"$29 - Comprar ahora","url":"https://vibrant-itzelmarina2.wordpress.com/catalogo/?recurring_payments=undefined"} /--></div>
+<!-- /wp:jetpack/recurring-payments --></div>
+<!-- /wp:jetpack/payment-buttons --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"}}},"backgroundColor":"background","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-background-background-color has-background" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":12398,"aspectRatio":"1","scale":"cover","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://dotcompatterns.files.wordpress.com/2023/09/pexels-monstera-production-6373856.jpg" alt="" class="wp-image-12398" style="aspect-ratio:1;object-fit:cover" /></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph {"align":"left","fontSize":"medium"} -->
+<p class="has-text-align-left has-medium-font-size">Impresión artística: capas</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:jetpack/payment-buttons -->
+<div class="wp-block-jetpack-payment-buttons"><!-- wp:jetpack/recurring-payments {"url":"https://vibrant-itzelmarina2.wordpress.com/catalogo/?recurring_payments=undefined","uniqueId":"recurring-payments-undefined"} -->
+<div class="wp-block-jetpack-recurring-payments"><!-- wp:jetpack/button {"element":"a","uniqueId":"recurring-payments-undefined","passthroughAttributes":{"uniqueId":"uniqueId","url":"url"},"text":"$29 - Comprar ahora","url":"https://vibrant-itzelmarina2.wordpress.com/catalogo/?recurring_payments=undefined"} /--></div>
+<!-- /wp:jetpack/recurring-payments --></div>
+<!-- /wp:jetpack/payment-buttons --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
